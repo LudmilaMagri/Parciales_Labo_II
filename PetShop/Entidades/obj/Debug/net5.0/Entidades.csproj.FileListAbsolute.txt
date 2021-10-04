@@ -1,0 +1,36 @@
+C:\Users\ludmi\source\repos\PetShop\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\ludmi\source\repos\PetShop\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\ludmi\source\repos\PetShop\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\ludmi\source\repos\PetShop\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\ludmi\source\repos\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Lali\Documents\GITHUB\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\ludmi\Documents\UTN\2do_cuatrimestre\LAB II\PrimerParcial_Labo_II\PetShop\Entidades\obj\Debug\net5.0\Entidades.pdb

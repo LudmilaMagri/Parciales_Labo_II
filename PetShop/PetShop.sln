@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidades", "Entidades\Entidades.csproj", "{32BBDF54-BBBC-473C-BDB4-3693315D5448}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formularios", "Formularios\Formularios.csproj", "{B318C3FD-828D-4CE4-A194-B00A31DE9ED4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imagenes", "Imagenes", "{CB826622-B8D2-4413-81D6-1FE94D70E030}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\Imagenes_Petshop\Camita.jpg = ..\..\..\..\..\Imagenes_Petshop\Camita.jpg
+		..\..\..\..\..\Imagenes_Petshop\Pedigree.jpg = ..\..\..\..\..\Imagenes_Petshop\Pedigree.jpg
+		..\..\..\..\..\Imagenes_Petshop\RoyalCanin.jpg = ..\..\..\..\..\Imagenes_Petshop\RoyalCanin.jpg
+		..\..\..\..\..\Imagenes_Petshop\Whiskas.jpg = ..\..\..\..\..\Imagenes_Petshop\Whiskas.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BBDF54-BBBC-473C-BDB4-3693315D5448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BBDF54-BBBC-473C-BDB4-3693315D5448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BBDF54-BBBC-473C-BDB4-3693315D5448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BBDF54-BBBC-473C-BDB4-3693315D5448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B318C3FD-828D-4CE4-A194-B00A31DE9ED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B318C3FD-828D-4CE4-A194-B00A31DE9ED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B318C3FD-828D-4CE4-A194-B00A31DE9ED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B318C3FD-828D-4CE4-A194-B00A31DE9ED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCF42519-CE25-490F-9EBF-470E0B1DE6A9}
+	EndGlobalSection
+EndGlobal

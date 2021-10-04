@@ -33,17 +33,10 @@ namespace Formularios
             this.cmbClientes.DisplayMember = "nombre";
             dgvProductos.DataSource = Shop.listaProductos;
             sCompras = new Compra();
-           // compras = new Compra();
             txtId.Text = " ";
             dgvListaCarrito.DataSource = null;
         }
 
-       
-        private void ActualizarDgvProducto()
-        {
-            dgvProductos.DataSource = null;
-            dgvProductos.DataSource = Shop.listaProductos;
-        }
 
         private void btnComprar_Click(object sender, EventArgs e)
         {
@@ -73,8 +66,9 @@ namespace Formularios
                         lblRespuesta.ForeColor = Color.Red;
                         lblRespuesta.Text = "Saldo insuficiente";
                         sonidoError.Play();
-                        ActualizarDgvProducto();
+                        
                     }
+                    ActualizarDgvProducto();
                 }
             }
             else
@@ -118,6 +112,11 @@ namespace Formularios
             txtId.Enabled = false;
         }
 
+        private void ActualizarDgvProducto()
+        {
+            dgvProductos.DataSource = null;
+            dgvProductos.DataSource = Shop.listaProductos;
+        }
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             Limpiar();

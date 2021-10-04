@@ -19,7 +19,7 @@ namespace Formularios
             InitializeComponent();
         }
 
-        private void FrmBuscar_Load(object sender, EventArgs e)
+        private void FrmMostrarVentas_Load(object sender, EventArgs e)
         {
             CargarDatos.CargarVentas();
             lblPrecioFinal.Text = "$" + Shop.Costofinal().ToString();

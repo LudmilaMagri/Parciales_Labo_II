@@ -193,7 +193,7 @@ namespace Formularios
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FrmMostrarVentas";
             this.Text = "FrmBuscar";
-            this.Load += new System.EventHandler(this.FrmBuscar_Load);
+            this.Load += new System.EventHandler(this.FrmMostrarVentas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvMostrar)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

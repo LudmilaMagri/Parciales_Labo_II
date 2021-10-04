@@ -29,7 +29,6 @@ namespace Formularios
             dgvMostrar.DataSource = compra.ListaProductos;
             lblPrecio.Text = compra.CostoFinal.ToString();
             lblDatos.Text = cliente.ToString();
-            //lstCliente.Items.Add(cliente.Nombre);
         }
 
         private void btnAceptarCompra_Click(object sender, EventArgs e)

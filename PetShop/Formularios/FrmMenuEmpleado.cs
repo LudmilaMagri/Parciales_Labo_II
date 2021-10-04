@@ -19,14 +19,6 @@ namespace Formularios
 
         private void btnClientes_Click(object sender, EventArgs e)
         {
-            FrmListarClientes f = new FrmListarClientes();
-            f.TopLevel = false;
-            f.Dock = DockStyle.Fill;
-            f.FormBorderStyle = FormBorderStyle.None;
-            pnlFrmMenuPrincipal.Controls.Add(f);
-            pnlFrmMenuPrincipal.Tag = f;
-            f.Show();
-            f.BringToFront();
         }
 
         private void pbVenta_Click(object sender, EventArgs e)
